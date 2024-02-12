@@ -1,0 +1,2811 @@
+pack (for donkey)
+a
+
+بَرْدْعَة
+2
+q
+
+cockadoodle doo (rooster’s crowing)
+a
+
+تْعُوعِيشْ
+3
+q
+
+to cluck (like a chicken) (past singular masculine)
+a
+
+تَقَاقِي
+4
+q
+
+to nest, hatch (past singular masculine)
+a
+
+تْكَرِّكْ
+5
+q
+
+crocodile
+a
+
+تِمْسَاحْ
+6
+q
+
+meow
+a
+
+تْمَعْوِيقْ
+7
+q
+
+to peck (past singular masculine)
+a
+
+نَڤّرْ
+8
+q
+
+mammals
+a
+
+ثَدِيَّاتْ
+9
+q
+
+fox
+a
+
+ثَعْلَبْ
+10
+q
+
+small fox, sly or clever person
+a
+
+ثَعْلُوبْ
+11
+q
+
+bull
+a
+
+ثُورْ
+12
+q
+
+buffalo
+a
+
+جَامُوسْ
+13
+q
+
+Colt
+a
+
+جَحْشْ
+14
+q
+
+locust
+a
+
+جْرَادَة
+15
+q
+
+frog
+a
+
+جْرَانَة
+16
+q
+
+rat
+a
+
+جَرْبُوعْ
+17
+q
+
+a duck
+a
+
+جُرْمَانَة
+18
+q
+
+puppy
+a
+
+جَرْو
+19
+q
+
+a cut of wool
+a
+
+جَزَّة صُوفْ
+20
+q
+
+when an animal eats or drinks too much and can’t move
+a
+
+جْفِلْ
+21
+q
+
+camel
+a
+
+جْمَلْ
+22
+q
+
+wing
+a
+
+جْنَاحْ
+23
+q
+
+suit, wing
+a
+
+جْنَاحْ
+24
+q
+
+to fly, flap (past singular masculine)
+a
+
+جنّح
+25
+q
+
+mad cow disease
+a
+
+جُنُونْ البَقَرْ
+26
+q
+
+leg of an animal (from butcher)
+a
+
+جِيڨُو
+27
+q
+
+stork
+a
+
+حَاجْ قَاسِمْ
+28
+q
+
+hoof
+a
+
+حَافِرْ
+29
+q
+
+squid
+a
+
+حَبَّارْ
+30
+q
+
+partridge
+a
+
+حْجَلْ
+31
+q
+
+zoo
+a
+
+حديقة الحيوانات
+32
+q
+
+insects, bugs
+a
+
+حَشَرَاتْ
+33
+q
+
+seahorse
+a
+
+حْصَانْ البْحَرْ
+34
+q
+
+Arab horse
+a
+
+حْصَانْ عَرْبِي
+35
+q
+
+race horse
+a
+
+حْصَانْ مْتَاعْ كُورِسْ
+36
+q
+
+to milk a cow (past singular masculine)
+a
+
+حْلِبْ البَقْرَة
+37
+q
+
+snail
+a
+
+حَلَزُونْ
+38
+q
+
+to fly, flap (past singular masculine)
+a
+
+حَلَّقْ
+39
+q
+
+to shave (past singular masculine)
+a
+
+حَلَّقْ
+40
+q
+
+pig
+a
+
+حلّوف
+41
+q
+
+cunning person
+a
+
+حلّوف
+42
+q
+
+a female pig
+a
+
+حَلُّوفَة
+43
+q
+
+cunning female
+a
+
+حَلُّوفَة
+44
+q
+
+donkey
+a
+
+حِمَارْ
+45
+q
+
+zebra
+a
+
+حِمَارْ وَحْشِي
+46
+q
+
+female donkey
+a
+
+حْمَارَة
+47
+q
+
+dove, pigeon
+a
+
+حْمَامَة
+48
+q
+
+a small donkey
+a
+
+حْمَّيِّرْ
+49
+q
+
+a stupid person
+a
+
+حْمَّيِّرْ
+50
+q
+
+a snake
+a
+
+حْنَشْ
+51
+q
+
+water snake
+a
+
+حْنَشْ البْحَرْ
+52
+q
+
+desert snake
+a
+
+حْنَشْ الصَحْرَا
+53
+q
+
+river snake
+a
+
+حْنَشْ الوَادْ
+54
+q
+
+Cobra
+a
+
+حْنَشْ بُو فْطِيرَة
+55
+q
+
+viper
+a
+
+حَنْشَة
+56
+q
+
+hooves
+a
+
+حْوَافِرْ
+57
+q
+
+fish
+a
+
+حُوتَة
+58
+q
+
+animal
+a
+
+حَيَوَانْ
+59
+q
+
+a domestic animal
+a
+
+حَيَوَانْ ألِيفْ
+60
+q
+
+animals facing extinction
+a
+
+حَيَوَانَاتْ قْرِيبْ تَنْقَرِضْ
+61
+q
+
+extincted animals
+a
+
+حَيَوَانَاتْ مُنْقَرِضَة
+62
+q
+
+trunk (elephant), hose
+a
+
+خُرْطُومْ
+63
+q
+
+Sudanese capital
+a
+
+خُرْطُومْ
+64
+q
+
+to castrate (past singular masculine)
+a
+
+خْسَى
+65
+q
+
+poultry disease
+a
+
+خْنَاقْ الدْجَاجْ
+66
+q
+
+pig
+a
+
+خِنْزِيرْ
+67
+q
+
+female pig
+a
+
+خِنْزِيرَة
+68
+q
+
+promiscuous woman (offensive word)
+a
+
+خِنْزِيرَة
+69
+q
+
+a young pig
+a
+
+خَنْتُوشْ
+70
+q
+
+cockroach, beetle, small bug
+a
+
+خَنْفُوسْ
+71
+q
+
+small cockroach
+a
+
+خْنِيفْسَة
+72
+q
+
+spider filament
+a
+
+خِيطْ العَنْكَبُوتْ
+73
+q
+
+rabies
+a
+
+دَاءْ الكَلَبْ
+74
+q
+
+tunnel, cave, animal’s hole
+a
+
+دَامُوسْ
+75
+q
+
+turkey (animal)
+a
+
+دَانْدْ
+76
+q
+
+a bear
+a
+
+دُبّْ
+77
+q
+
+polar bear
+a
+
+دُبْ الأَبْيَضْ
+78
+q
+
+chickens
+a
+
+دْجَاجْ
+79
+q
+
+a chicken
+a
+
+دْجَاجَة
+80
+q
+
+Dolphin
+a
+
+دِلْفِينْ
+81
+q
+
+the stomach of an animal
+a
+
+دَوَّارَة
+82
+q
+
+doberman pincher
+a
+
+دُوبِرْمَانْ
+83
+q
+
+worms
+a
+
+دُودْ
+84
+q
+
+earthworms
+a
+
+دُودْ التْرَابْ
+85
+q
+
+Silkworms
+a
+
+دُودْ الحْرِيرْ
+86
+q
+
+Argentinian dog
+a
+
+دُوقْ أرْجُنْتَانْ
+87
+q
+
+mice/rat poison
+a
+
+دْوَاء الفَارْ
+88
+q
+
+turkey (animal)
+a
+
+دِيكْ رُومِي
+89
+q
+
+a fly
+a
+
+ذِبَّانة
+90
+q
+
+to slaughter (past singular masculine)
+a
+
+ذْبَحْ
+91
+q
+
+sacrifice, something slaughtered
+a
+
+ذْبِيحَة
+92
+q
+
+wolf
+a
+
+ذِيبْ
+93
+q
+
+tail
+a
+
+ذِيلْ
+94
+q
+
+Race, breed
+a
+
+رَاتْسَة
+95
+q
+
+spider
+a
+
+رُتِّيلَة
+96
+q
+
+field of flocks, herds
+a
+
+رَحْبَةْ غْنَمْ
+97
+q
+
+to care for a flock (past singular masculine)
+a
+
+رْعَى السَّعِيْ
+98
+q
+
+to feather, pluck feathers, tear apart (past singular masculine)
+a
+
+رَيِّشْ
+99
+q
+
+to crawl, slither (past singular masculine)
+a
+
+زْحِفْ
+100
+q
+
+the desolation of locusts
+a
+
+زحْفَ الجَرَادْ
+101
+q
+
+giraffe
+a
+
+زَرَافَة
+102
+q
+
+Lizard, salamander
+a
+
+زَرْزُومِيَّة
+103
+q
+
+pen (usually for sheep)
+a
+
+زْرِيبَة
+104
+q
+
+fins (on fish)
+a
+
+زْعَانِفْ
+105
+q
+
+bird poop
+a
+
+زقّة
+106
+q
+
+to twitter, chirp (past singular masculine)
+a
+
+زَقْزَقْ
+107
+q
+
+reptiles
+a
+
+زَوَاحِفْ
+108
+q
+
+birdseed
+a
+
+زِيوَانْ
+109
+q
+
+roar of a lion
+a
+
+زَئِيرْ
+110
+q
+
+Herdsman, shepherd
+a
+
+سَارَحْ
+111
+q
+
+daydreaming, thinking of something else
+a
+
+سَارَحْ
+112
+q
+
+hibernation
+a
+
+سُبَاتْ
+113
+q
+
+Lizard
+a
+
+سِحْلِيَّة
+114
+q
+
+swarm, large flock
+a
+
+سِرْبْ
+115
+q
+
+swarm of birds
+a
+
+سِرْبْ مْتَاعْ طُيُورْ
+116
+q
+
+cock, rooster
+a
+
+سَرْدُوكْ
+117
+q
+
+Egyptian cock, rooster
+a
+
+سَرْدُوكْ مَصْرِي
+118
+q
+
+herd, flock
+a
+
+سْعَي
+119
+q
+
+race, breed
+a
+
+سُلَالَةْ
+120
+q
+
+to skin (an animal) (past singular masculine)
+a
+
+سْلَخْ
+121
+q
+
+Greyhound
+a
+
+سْلُوقِي
+122
+q
+
+quail
+a
+
+سِمَّانْ
+123
+q
+
+squirrel
+a
+
+سِنْجَابْ
+124
+q
+
+squid
+a
+
+سوبية
+125
+q
+
+spider web
+a
+
+شبكة العنكبوت
+126
+q
+
+lion cub
+a
+
+شبل
+127
+q
+
+word used to shoo a dog (or person)
+a
+
+شِرْ
+128
+q
+
+tadpole
+a
+
+شُرْغُوفْ
+129
+q
+
+mutt, not pure-bred
+a
+
+شِرْكِي
+130
+q
+
+type of fish
+a
+
+شلبة
+131
+q
+
+chimpanzee
+a
+
+شمبنزاي
+132
+q
+
+lap dogs
+a
+
+شيان دو بوش
+133
+q
+
+falcon
+a
+
+صَقْرْ
+134
+q
+
+to scream like a sheep (past singular masculine)
+a
+
+صَيَّحْ
+135
+q
+
+lion
+a
+
+صِيدْ
+136
+q
+
+hyena
+a
+
+ضْبَعْ
+137
+q
+
+antelope
+a
+
+ضَبْيْ
+138
+q
+
+peacock
+a
+
+طَاِوسْ
+139
+q
+
+to molt, lose feathers (past singular masculine)
+a
+
+طَيَّحْ الرِّيشْ
+140
+q
+
+to grow up, start doing bad things (past singular masculine)
+a
+
+طَيَّحْ الرِّيشْ
+141
+q
+
+eagle-like bird
+a
+
+طِيرْ البُرْنِي
+142
+q
+
+herbivore
+a
+
+عَاشِبْ
+143
+q
+
+male goat, billygoat
+a
+
+عَتْرُوسْ
+144
+q
+
+nest
+a
+
+عِشْ
+145
+q
+
+to build a nest, make web (past singular masculine)
+a
+
+عَشِّشْ
+146
+q
+
+to stay somewhere a long time (past singular masculine)
+a
+
+عَشِّشْ
+147
+q
+
+birds
+a
+
+عْصَافِرْ
+148
+q
+
+bird
+a
+
+عَصْفُورْ
+149
+q
+
+starling bird found in olive trees
+a
+
+عَصْفُورْ زِيتُونْ
+150
+q
+
+scorpion
+a
+
+عَقْرِبْ
+151
+q
+
+to feed animals (past singular masculine)
+a
+
+عَلِّفْ
+152
+q
+
+animal feed
+a
+
+عَلْفَة
+153
+q
+
+lamb
+a
+
+عَلُّوشْ
+154
+q
+
+neck (especially of a chicken)
+a
+
+عَنْكُوشْ
+155
+q
+
+to cock-a-doodle-do, crow (past singular masculine)
+a
+
+عُوعِشْ
+156
+q
+
+to howl (past singular masculine)
+a
+
+عْوَى
+157
+q
+
+crow
+a
+
+غْرَابْ
+158
+q
+
+to chirp, tweet (past singular masculine)
+a
+
+غَرِّدْ
+159
+q
+
+to cry (past singular masculine)
+a
+
+غَرِّدْ
+160
+q
+
+deer, gazelle
+a
+
+غْزَالْ
+161
+q
+
+beatiful/handsome person
+a
+
+غْزَالْ
+162
+q
+
+sheep, goats, flock
+a
+
+غْنَمْ
+163
+q
+
+to get things from someone (usually by robbery), sieze (past singular masculine)
+a
+
+غْنَمْ
+164
+q
+
+mouse
+a
+
+فَارْ
+165
+q
+
+young chickens
+a
+
+فَرْخْ
+166
+q
+
+a young person who does foolish, childish things
+a
+
+فَرْخْ
+167
+q
+
+wasp
+a
+
+فَرْزَزُّو
+168
+q
+
+cricket
+a
+
+فَرْزِيطْ
+169
+q
+
+butterfly
+a
+
+فَرْطَطُّو
+170
+q
+
+fur
+a
+
+فَرْوَةْ
+171
+q
+
+race, breed
+a
+
+فَصِيلَةْ
+172
+q
+
+seal (sea animal)
+a
+
+فُقْمَةْ
+173
+q
+
+a turtle
+a
+
+فَكْرُونْ
+174
+q
+
+desert fox
+a
+
+فْنَكْ
+175
+q
+
+leopard
+a
+
+فَهْدْ
+176
+q
+
+elephant
+a
+
+فِيلْ
+177
+q
+
+bass (fish)
+a
+
+قَارُوصْ
+178
+q
+
+to crow, cluck (past singular masculine)
+a
+
+قَاقَى
+179
+q
+
+anti-insect spray/product
+a
+
+ڨَتّالْ
+180
+q
+
+fatal, deadly (adj)
+a
+
+ڨَتّالْ
+181
+q
+
+ticks
+a
+
+قْرَادْ
+182
+q
+
+(military) rank
+a
+
+قْرَادْ
+183
+q
+
+tick
+a
+
+قْرَادَةْ
+184
+q
+
+straw (food for animals)
+a
+
+ڨُرْتْ
+185
+q
+
+monkey
+a
+
+قِرْدْ
+186
+q
+
+a very ugly or stupid woman
+a
+
+قِرْدْ
+187
+q
+
+shark
+a
+
+قِرْشْ
+188
+q
+
+bee sting
+a
+
+قَرْصَةْ مْتَاعْ نْحَلْ
+189
+q
+
+octopus, squid
+a
+
+قَرْنِيطْ
+190
+q
+
+to butcher a sheep (past singular masculine)
+a
+
+قَصّْ العَلُّوشْ
+191
+q
+
+killing animals
+a
+
+قْضَى عَلْ الحَيَوَانَاتْ
+192
+q
+
+cat
+a
+
+قَطُّوسَةْ
+193
+q
+
+pretty woman
+a
+
+قَطُّوسَةْ
+194
+q
+
+my little kitten
+a
+
+قَطُّوسْتِي
+195
+q
+
+flock
+a
+
+قَطِيعْ
+196
+q
+
+young camel (not fully grown)
+a
+
+ڨْعُودْ
+197
+q
+
+bird cage
+a
+
+قْفَصْ عَصْفُورْ
+198
+q
+
+chicken coop
+a
+
+ڨِنَّارُو
+199
+q
+
+jellyfish
+a
+
+قِنْدِيلْ لِبْحَرْ
+200
+q
+
+hedgehog
+a
+
+قَنْفُودْ
+201
+q
+
+group of insects that swarm to something
+a
+
+ڨُوجَةْ
+202
+q
+
+hatching an egg, sitting on an egg
+a
+
+كَارِكْ
+203
+q
+
+to be a couch potatoe, sit around all day (past singular masculine)
+a
+
+كَارِكْ
+204
+q
+
+canary
+a
+
+كَانَالُو
+205
+q
+
+Poodle
+a
+
+كَانِيشْ
+206
+q
+
+Lamb, ram
+a
+
+كَبْشْ
+207
+q
+
+to hatch, sit on eggs (past singular masculine)
+a
+
+كَرٍّكْ
+208
+q
+
+to fail a year in school (past singular masculine)
+a
+
+كَرٍّكْ
+209
+q
+
+Crocodile
+a
+
+كُرُوكُودِيلْ
+210
+q
+
+Dog
+a
+
+كَلْبْ
+211
+q
+
+saluki dog
+a
+
+كَلْبْ الشُوكْ
+212
+q
+
+seal
+a
+
+كَلْبْ بْحَرْ
+213
+q
+
+Sheep dog, German shepherd
+a
+
+كَلْبْ بِيرْجَا
+214
+q
+
+tame dog, housebroken dog
+a
+
+كَلْبْ سُورِي
+215
+q
+
+Police dog
+a
+
+كَلْبْ مْتَاعْ حَاكِمْ
+216
+q
+
+Watchdog
+a
+
+كَلْبْ مْتَاعْ عَسَّةْ
+217
+q
+
+Hunting dog
+a
+
+كَلْبْ مَصْيِدْ
+218
+q
+
+Small dog
+a
+
+كْلَيِّبْ
+219
+q
+
+Muzzle
+a
+
+كْمَامَةْ
+220
+q
+
+Koala
+a
+
+كْوَالَا
+221
+q
+
+barn
+a
+
+كُورِي
+222
+q
+
+Korean
+a
+
+كُورِي
+223
+q
+
+creatures, living things
+a
+
+كائنَاتْ
+224
+q
+
+carnivorous
+a
+
+لَاحِمْ
+225
+q
+
+seeing, dating, in a relationship
+a
+
+لَاحِمْ
+226
+q
+
+lobster
+a
+
+لَانْقُوسْتْ
+227
+q
+
+hawk
+a
+
+بَازْ
+228
+q
+
+lioness
+a
+
+لَبَّة
+229
+q
+
+to bleat, scream like goat (past singular masculine)
+a
+
+لَبْلِبْ
+230
+q
+
+lioness
+a
+
+لَبْوَةْ
+231
+q
+
+bridle (horse)
+a
+
+لْجَامْ
+232
+q
+
+to bridle a horse (past singular masculine)
+a
+
+لَجِّمْ
+233
+q
+
+to sting (scorpion), bite with poison (past singular masculine)
+a
+
+لْدَغْ
+234
+q
+
+serpent, snake
+a
+
+لَفْعَةْ
+235
+q
+
+evil woman
+a
+
+لَفْعَةْ
+236
+q
+
+stork
+a
+
+لَقْلَقْ
+237
+q
+
+hippopotamus
+a
+
+ليپوپوتام
+238
+q
+
+nocturnal
+a
+
+لَيْلِيَّةْ
+239
+q
+
+flocks, sheep, goats
+a
+
+ماشية
+240
+q
+
+mammals
+a
+
+مَامِيفَارْ
+241
+q
+
+aquarium (large)
+a
+
+مَتْحِفْ الحُوتْ
+242
+q
+
+claws
+a
+
+مَخَالِبْ
+243
+q
+
+animal (often rooster) with its feathers removed
+a
+
+مْرَيِّشْ
+244
+q
+
+mixed breed
+a
+
+مَشَتِّلْ
+245
+q
+
+goat
+a
+
+مَعْزَة
+246
+q
+
+to meow (past singular masculine)
+a
+
+مَعْوِقْ
+247
+q
+
+queen bee
+a
+
+مَلِكَةْ النَّحْلْ
+248
+q
+
+grouper (fish)
+a
+
+مَنَّانِّي
+249
+q
+
+small bird found in mountains
+a
+
+مِنْيَارْ
+250
+q
+
+name for cat, stereotypical name for cat
+a
+
+مِيشَةْ
+251
+q
+
+meow
+a
+
+مِيعَوْ
+252
+q
+
+small dog
+a
+
+مِينُوشْ
+253
+q
+
+bighorn sheep
+a
+
+مِينِينُوسْ
+254
+q
+
+female camel
+a
+
+نَاقَةْ
+255
+q
+
+mosquitoes
+a
+
+نَامُوسْ
+256
+q
+
+the law of Moses (Christian)
+a
+
+نَامُوسْ
+257
+q
+
+barking of a dog
+a
+
+نْبَاحْ
+258
+q
+
+to bark (past singular masculine)
+a
+
+نْبَحْ
+259
+q
+
+to scratch at the ground, claw (past singular masculine)
+a
+
+نْبِشْ
+260
+q
+
+bees
+a
+
+نْحَلْ
+261
+q
+
+queen bee
+a
+
+نَحْلَة مَلِكَة
+262
+q
+
+apiarian, beekeeper
+a
+
+نَحْلِي
+263
+q
+
+bran
+a
+
+نُخَّالَةْ
+264
+q
+
+eagles
+a
+
+نْسُورْ
+265
+q
+
+Tunisian national soccer team
+a
+
+نْسُورْ
+266
+q
+
+a frightening make-believe bird that eats childrens
+a
+
+نعُوشَةْ
+267
+q
+
+ants
+a
+
+نِمَّالْ
+268
+q
+
+to bray (past singular masculine)
+a
+
+نَهِّقْ
+269
+q
+
+coconut
+a
+
+نْوَا دُو كُوكُو
+270
+q
+
+big animal, big snake
+a
+
+هَامَّةْ
+271
+q
+
+animal, beast
+a
+
+هَايْشَة
+272
+q
+
+mute animal
+a
+
+هَايْشَةْ بَكْمَةْ
+273
+q
+
+yip, ruff (barking sound)
+a
+
+هَبْ
+274
+q
+
+animals
+a
+
+هْوَايِشْ
+275
+q
+
+animals
+a
+
+هُوشْ
+276
+q
+
+fur
+a
+
+وْبَرْ
+277
+q
+
+salamander
+a
+
+وْرَلْ
+278
+q
+
+to make a bubbling sound, warble (past singular masculine)
+a
+
+وَرْوِرْ
+279
+q
+
+small lizard, gecko
+a
+
+وَزْغَةْ
+280
+q
+
+very small kind of fish
+a
+
+وْزَفْ
+281
+q
+
+lynx
+a
+
+وْشَقْ
+282
+q
+
+large mosquito
+a
+
+وَشْوَاشَة
+283
+q
+
+cucumber
+a
+
+وِلْدْ القَمْرَةْ
+284
+q
+
+cow
+a
+
+بَڨْرَة
+285
+q
+
+bulbul (small bird)
+a
+
+بُلْبْلَة
+286
+q
+
+kind of bird
+a
+
+بْرَادِلْ
+287
+q
+
+doberman pincher
+a
+
+بِرْجَا
+288
+q
+
+parrot
+a
+
+ببغيّو
+289
+q
+
+small black insect
+a
+
+بق
+290
+q
+
+ravenous, wild, predator (has canine teeth)
+a
+
+بُونَابْ
+291
+q
+
+manatee
+a
+
+بَڨْرَة البْحَرْ
+292
+q
+
+yellow insect that makes lots of noise in the summer (blattodea)
+a
+
+بُودْرِنْ
+293
+q
+
+snail (shell)
+a
+
+ببّوش
+294
+q
+
+duck
+a
+
+بطّة
+295
+q
+
+insect found on plants
+a
+
+بُوسَاقْ
+296
+q
+
+hawk
+a
+
+بَاشَقْ
+297
+q
+
+brown insect often found in toilets
+a
+
+بُوڨْرِلُّو
+298
+q
+
+wild, not tame
+a
+
+برّي
+299
+q
+
+salamander, small lizard
+a
+
+بوكشّاش
+300
+q
+
+to walk the dog (past singular masculine)
+a
+
+حَوِّسْ بِالكَلْبْ
+301
+q
+
+rabbit
+a
+
+أَرْنِبْ
+302
+q
+
+stable (place for horses)
+a
+
+إسْطَبِلْ
+303
+q
+
+to muzzle its mouth (past singular masculine)
+a
+
+إكَمَّمْلُو فُمُّو
+304
+q
+
+aquatic
+a
+
+أكْوَاتِيكْ
+305
+q
+
+fish tank, aquarium
+a
+
+أكْوَارْيُومْ
+306
+q
+
+breeding, raising animals
+a
+
+آلْفَاجْ
+307
+q
+
+alligator
+a
+
+آلِيڨَاتُورْ
+308
+q
+
+centipede
+a
+
+أمْ اَرْبَعَ وَ ارْبْعِينْ
+309
+q
+
+chamelion
+a
+
+أم البُويَة
+310
+q
+
+type of frog
+a
+
+أمْ ڨُرْڨُرْ
+311
+q
+
+anaconda
+a
+
+أنَاكُونْدَا
+312
+q
+
+deer
+a
+
+أَيْلْ
+313
+q
+
+abbatoir, slaughterhouse
+a
+
+بَاتْوَارْ
+314
+q
+
+to lay an egg (past singular masculine)
+a
+
+بَاضْ
+315
+q
+
+banana
+a
+
+بَانَانْ
+316
+q
+
+parakeet
+a
+
+بَبَغَيُّو
+317
+q
+
+shell, clam
+a
+
+بَبُّوشْ
+318
+q
+
+German Shepherd
+a
+
+بِرْجَا ألْمُونْ
+319
+q
+
+male goat
+a
+
+بِرْشْنِي
+320
+q
+
+flea
+a
+
+بَرْغُوثْ
+321
+q
+
+type of sheep known by its tail
+a
+
+بَرْكُوسْ
+322
+q
+
+small bird
+a
+
+بُرْنِي
+323
+q
+
+chick, little bird
+a
+
+بَزْوِيشْ
+324
+q
+
+nickname for a young child that’s making noise
+a
+
+بَزْوِيشْ
+325
+q
+
+to call to an animal, get an animal to come (past singular masculine)
+a
+
+بَشْبِشْ
+326
+q
+
+penguin
+a
+
+بَطْرِيقْ
+327
+q
+
+to baa like a sheep (past singular masculine)
+a
+
+بَعْبَعْ
+328
+q
+
+tail
+a
+
+بَعْبُوصْ
+329
+q
+
+sheep poop, waste
+a
+
+بَعْرُورْ
+330
+q
+
+camel
+a
+
+بَعِيرْ
+331
+q
+
+bugs, small insects
+a
+
+بُغْبُشْ
+332
+q
+
+mule
+a
+
+بْغَلْ
+333
+q
+
+tick (insect)
+a
+
+بَقْ
+334
+q
+
+milk cow
+a
+
+بَڨْرَة هُولَنْدِيَّة
+335
+q
+
+bovine, of or relating to cow
+a
+
+بَقْرِي
+336
+q
+
+donkey
+a
+
+بْهِيمْ
+337
+q
+
+idiot, stupid person
+a
+
+بْهِيمْ
+338
+q
+
+wasp
+a
+
+بُو زِمْزِمْ
+339
+q
+
+mouse
+a
+
+بُو طْمِيرَة
+340
+q
+
+small lizard, gecko
+a
+
+بُو كَشَّاشْ
+341
+q
+
+earwig
+a
+
+بُو مْقَسْ
+342
+q
+
+grasshopper
+a
+
+بُو نَقَّازْ
+343
+q
+
+Mullet fish
+a
+
+بُورِي
+344
+q
+
+mole
+a
+
+بُوسِتْ خَالْ
+345
+q
+
+Cobra
+a
+
+بُوفْطِيرَة
+346
+q
+
+aquarium, fish tank
+a
+
+بُوكَالْ
+347
+q
+
+bulldog
+a
+
+بُولْدُوڨْ
+348
+q
+
+owl
+a
+
+بُومَة
+349
+q
+
+chicken coop
+a
+
+بِيتْ الدْجَاجْ
+350
+q
+
+sheep pen
+a
+
+بِيتْ لَعْلَالِشْ
+351
+q
+
+nickname for cats
+a
+
+بِيشَة
+352
+q
+
+butterfly
+a
+
+پاپييون
+353
+q
+
+penguin
+a
+
+پَانْڨْوَانْ
+354
+q
+
+parakeet
+a
+
+پِيرُوشْ
+355
+q
+
+to lay eggs (past singular masculine)
+a
+
+تْبِيضْ
+356
+q
+
+breeding, raising livestock
+a
+
+تَرْبِيَة المَاشْيَة
+357
+q
+
+mullet fish
+a
+
+تْرِيلْيَا
+358
+q
+
+to howl, whine (as a dog) (past singular masculine)
+a
+
+زْوِي
+359
+q
+
+ant
+a
+
+نِمَّالَةْ
+360
+q
+
+stray dog, mutt
+a
+
+كَلْبْ عَرْبِي
+361
+q
+
+barking
+a
+
+نْبِيحْ
+362
+q
+
+bee
+a
+
+نَحْلَةْ
+363
+q
+
+young bull
+a
+
+عِجْلْ
+364
+q
+
+bird, flying animal
+a
+
+طيْرْ
+365
+q
+
+braying
+a
+
+نْهِيقْ
+366
+q
+
+kitty, little cat
+a
+
+قْطِيطِسْ
+367
+q
+
+cobra
+a
+
+كُوبْرَا
+368
+q
+
+breeding
+a
+
+كُوبْلاَجْ
+369
+q
+
+crow
+a
+
+كُورْبُو
+370
+q
+
+cuckoo
+a
+
+وَقْوَاقْ
+371
+q
+
+eagle
+a
+
+نِسْرْ
+372
+q
+
+ewe
+a
+
+نَعْجَةْ
+373
+q
+
+coward
+a
+
+نَعْجَةْ
+374
+q
+
+goose
+a
+
+وَزَّةْ
+375
+q
+
+gorilla
+a
+
+غُورِيلَّا
+376
+q
+
+gorilla
+a
+
+ڨُورِلَّا
+377
+q
+
+gull
+a
+
+نَوْرِسْ
+378
+q
+
+Nawres (woman’s name)
+a
+
+نَوْرِسْ
+379
+q
+
+herbivorous
+a
+
+كَالِشْ
+380
+q
+
+hippopotamus
+a
+
+فَرَسُ النَّهْرْ
+381
+q
+
+horse
+a
+
+حْصَانْ
+382
+q
+
+to bark, howl (past singular masculine)
+a
+
+هَبْهَبْ
+383
+q
+
+mongoose
+a
+
+نِمْسْ
+384
+q
+
+kangaroo
+a
+
+كُونْقُورُو
+385
+q
+
+kennel, dog house
+a
+
+نِيشْ
+386
+q
+
+kiwi
+a
+
+كِيوِي
+387
+q
+
+ladybug
+a
+
+كُوكْسِينَالْ
+388
+q
+
+locust invasion, attack
+a
+
+هُجُومْ الجَرَادْ
+389
+q
+
+mare
+a
+
+فْرَسْ
+390
+q
+
+meow
+a
+
+مِييييَاوْ
+391
+q
+
+mosquito
+a
+
+نَمُّوسَةْ
+392
+q
+
+squid or octopus, calamari
+a
+
+كَالَامَارْ
+393
+q
+
+nightingale
+a
+
+عَنْدْلِيبْ
+394
+q
+
+ostrich
+a
+
+نَعَامَةْ
+395
+q
+
+beak
+a
+
+مِنْقَارْ
+396
+q
+
+hippopotamous
+a
+
+كَرْكَدَنْ
+397
+q
+
+rhinoceros
+a
+
+وَحِيدْ القَرْنْ
+398
+q
+
+spider
+a
+
+عَنْكْبُوتْ
+399
+q
+
+sting, bite of a snake or scorpion
+a
+
+لَدْغَةْ
+400
+q
+
+to train, tame (animal) (past singular masculine)
+a
+
+عْمَلُّو دِرَاسَاجْ
+401
+q
+
+little turtle
+a
+
+فْكِيرِينْ
+402
+q
+
+to make a nest (past singular masculine)
+a
+
+تعشّش
